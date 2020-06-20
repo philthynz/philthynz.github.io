@@ -3,35 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://whitecomputing.com/bands/</loc>
-    <lastmod>2019-04-04T18:55:31+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://whitecomputing.com/bands/nirvana/</loc>
-    <lastmod>2019-04-04T18:55:31+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://whitecomputing.com/</loc>
-    <lastmod>2019-04-04T18:55:31+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://whitecomputing.com/bands/metallica/</loc>
-    <lastmod>2019-03-29T17:50:57+03:00</lastmod>
+    <loc>https://whitecomputing.com/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://whitecomputing.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://whitecomputing.com/notfound/</loc>
+    <loc>https://whitecomputing.com/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://whitecomputing.com/services/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://whitecomputing.com/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://whitecomputing.com/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
