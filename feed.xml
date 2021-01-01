@@ -3,7 +3,7 @@
     <title>White Computing</title>
     <link href="https://whitecomputing.com/feed.xml" rel="self" />
     <link href="https://whitecomputing.com" />
-    <updated>2021-01-01T21:53:56+13:00</updated>
+    <updated>2021-01-01T22:00:36+13:00</updated>
     <author>
         <name>Phillip White</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://whitecomputing.com/notfound/"/>
         <id>https://whitecomputing.com/notfound/</id>
 
-        <updated>2021-01-01T21:45:36+13:00</updated>
+        <updated>2021-01-01T22:00:36+13:00</updated>
             <summary>
                 <![CDATA[
                     😱 Page not found 😱 
@@ -27,7 +27,7 @@
             <![CDATA[
                 <p class="align-center">😱 Page not found 😱</p>
 <p> </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://whitecomputing.com/media/posts/13/404.gif" alt="" width="200" height="150"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://whitecomputing.com/media/posts/13/notfound.gif" alt="" width="167" height="167"></figure>
             ]]>
         </content>
     </entry>

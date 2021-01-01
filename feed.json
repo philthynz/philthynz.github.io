@@ -14,14 +14,14 @@
             "url": "https://whitecomputing.com/notfound/",
             "title": "NotFound",
             "summary": "😱 Page not found 😱 ",
-            "content_html": "<p class=\"align-center\">😱 Page not found 😱</p>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://whitecomputing.com/media/posts/13/404.gif\" alt=\"\" width=\"200\" height=\"150\"></figure>",
+            "content_html": "<p class=\"align-center\">😱 Page not found 😱</p>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://whitecomputing.com/media/posts/13/notfound.gif\" alt=\"\" width=\"167\" height=\"167\"></figure>",
             "author": {
                 "name": "Phillip White"
             },
             "tags": [
             ],
             "date_published": "2021-01-01T21:45:36+13:00",
-            "date_modified": "2021-01-01T21:45:36+13:00"
+            "date_modified": "2021-01-01T22:00:36+13:00"
         },
         {
             "id": "https://whitecomputing.com/about/",
