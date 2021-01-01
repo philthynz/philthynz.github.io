@@ -3,7 +3,7 @@
     <title>White Computing</title>
     <link href="https://whitecomputing.com/feed.xml" rel="self" />
     <link href="https://whitecomputing.com" />
-    <updated>2021-01-01T18:50:00+13:00</updated>
+    <updated>2021-01-01T19:20:05+13:00</updated>
     <author>
         <name>Phillip White</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://whitecomputing.com/koda-the-spitz.html"/>
         <id>https://whitecomputing.com/koda-the-spitz.html</id>
 
-        <updated>2021-01-01T18:50:00+13:00</updated>
+        <updated>2021-01-01T19:00:30+13:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -39,6 +39,7 @@
 <figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/928526_495200060626083_1396174384_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/928526_495200060626083_1396174384_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
 <figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/928559_297102680414283_1261233676_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/928559_297102680414283_1261233676_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
 </div></div>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/goa9iyMWJkI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
@@ -50,15 +51,15 @@
         <link href="https://whitecomputing.com/contact.html"/>
         <id>https://whitecomputing.com/contact.html</id>
 
-        <updated>2021-01-01T18:35:33+13:00</updated>
+        <updated>2021-01-01T19:20:05+13:00</updated>
             <summary>
                 <![CDATA[
-                    Contact Page
+                     Your Name: Your email: Your message: Send
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Contact Page</p>
+                <!-- modify this form HTML and place wherever you want your form --><form action="https://formspree.io/f/xwkwwjer" method="POST"><label> Your Name: <br><input name="_replyto" type="text"> </label> <br><label> Your email: <br><input name="_replyto" type="text"> </label> <br><br><label> Your message: <br><textarea cols="50" name="message" rows="4"></textarea> </label> <!-- your other form fields go here --> <br><button type="submit">Send</button></form>
             ]]>
         </content>
     </entry>
