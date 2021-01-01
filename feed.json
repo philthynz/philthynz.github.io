@@ -27,14 +27,14 @@
             "url": "https://whitecomputing.com/contact.html",
             "title": "Contact",
             "summary": " Your Name: Your email: Your message: Send",
-            "content_html": "<!-- modify this form HTML and place wherever you want your form --><form action=\"https://formspree.io/f/xwkwwjer\" method=\"POST\"><label> Your Name: <br><input name=\"_replyto\" type=\"text\"> </label> <br><label> Your email: <br><input name=\"_replyto\" type=\"text\"> </label> <br><br><label> Your message: <br><textarea cols=\"50\" name=\"message\" rows=\"4\"></textarea> </label> <!-- your other form fields go here --> <br><button type=\"submit\">Send</button></form>",
+            "content_html": "<!-- modify this form HTML and place wherever you want your form --><form action=\"https://formspree.io/f/xwkwwjer\" method=\"POST\"><label> Your Name: <br><input type=\"text\"> </label> <br><label> Your email: <br><input name=\"_replyto\" type=\"text\"> </label> <br><br><label> Your message: <br><textarea cols=\"50\" name=\"message\" rows=\"4\"></textarea> </label> <!-- your other form fields go here --> <br><button type=\"submit\">Send</button></form>",
             "author": {
                 "name": "Phillip White"
             },
             "tags": [
             ],
             "date_published": "2021-01-01T18:35:33+13:00",
-            "date_modified": "2021-01-01T19:20:05+13:00"
+            "date_modified": "2021-01-01T19:24:54+13:00"
         },
         {
             "id": "https://whitecomputing.com/privacy.html",

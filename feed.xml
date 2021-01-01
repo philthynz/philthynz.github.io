@@ -3,7 +3,7 @@
     <title>White Computing</title>
     <link href="https://whitecomputing.com/feed.xml" rel="self" />
     <link href="https://whitecomputing.com" />
-    <updated>2021-01-01T19:20:05+13:00</updated>
+    <updated>2021-01-01T19:24:54+13:00</updated>
     <author>
         <name>Phillip White</name>
     </author>
@@ -51,7 +51,7 @@
         <link href="https://whitecomputing.com/contact.html"/>
         <id>https://whitecomputing.com/contact.html</id>
 
-        <updated>2021-01-01T19:20:05+13:00</updated>
+        <updated>2021-01-01T19:24:54+13:00</updated>
             <summary>
                 <![CDATA[
                      Your Name: Your email: Your message: Send
@@ -59,7 +59,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <!-- modify this form HTML and place wherever you want your form --><form action="https://formspree.io/f/xwkwwjer" method="POST"><label> Your Name: <br><input name="_replyto" type="text"> </label> <br><label> Your email: <br><input name="_replyto" type="text"> </label> <br><br><label> Your message: <br><textarea cols="50" name="message" rows="4"></textarea> </label> <!-- your other form fields go here --> <br><button type="submit">Send</button></form>
+                <!-- modify this form HTML and place wherever you want your form --><form action="https://formspree.io/f/xwkwwjer" method="POST"><label> Your Name: <br><input type="text"> </label> <br><label> Your email: <br><input name="_replyto" type="text"> </label> <br><br><label> Your message: <br><textarea cols="50" name="message" rows="4"></textarea> </label> <!-- your other form fields go here --> <br><button type="submit">Send</button></form>
             ]]>
         </content>
     </entry>
