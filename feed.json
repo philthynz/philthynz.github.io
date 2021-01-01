@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://whitecomputing.com/notfound.html",
-            "url": "https://whitecomputing.com/notfound.html",
+            "id": "https://whitecomputing.com/notfound/",
+            "url": "https://whitecomputing.com/notfound/",
             "title": "NotFound",
             "summary": "😱 Page not found 😱 ",
             "content_html": "<p class=\"align-center\">😱 Page not found 😱</p>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://whitecomputing.com/media/posts/13/404.gif\" alt=\"\" width=\"200\" height=\"150\"></figure>",
@@ -24,8 +24,8 @@
             "date_modified": "2021-01-01T21:45:36+13:00"
         },
         {
-            "id": "https://whitecomputing.com/about.html",
-            "url": "https://whitecomputing.com/about.html",
+            "id": "https://whitecomputing.com/about/",
+            "url": "https://whitecomputing.com/about/",
             "title": "About",
             "author": {
                 "name": "Phillip White"
@@ -36,8 +36,8 @@
             "date_modified": "2021-01-01T21:38:49+13:00"
         },
         {
-            "id": "https://whitecomputing.com/thanks.html",
-            "url": "https://whitecomputing.com/thanks.html",
+            "id": "https://whitecomputing.com/thanks/",
+            "url": "https://whitecomputing.com/thanks/",
             "title": "Thanks",
             "summary": "👍 Great stuff! We'll be in touch soon. ",
             "content_html": "<p class=\"align-center\">👍 Great stuff! We'll be in touch soon.</p>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://whitecomputing.com/media/posts/9/thanks.gif\" alt=\"\" width=\"200\" height=\"200\"></figure>\n<p> </p>",
@@ -50,8 +50,8 @@
             "date_modified": "2021-01-01T21:27:29+13:00"
         },
         {
-            "id": "https://whitecomputing.com/koda-the-spitz.html",
-            "url": "https://whitecomputing.com/koda-the-spitz.html",
+            "id": "https://whitecomputing.com/koda-the-spitz/",
+            "url": "https://whitecomputing.com/koda-the-spitz/",
             "title": "Koda The Spitz",
             "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"5\">\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/927961_630502683707067_1915127521_n.jpg\" data-size=\"640x640\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/927961_630502683707067_1915127521_n-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"640\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/915633_575041829217150_460205767_n.jpg\" data-size=\"612x612\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/915633_575041829217150_460205767_n-thumbnail.jpg\" alt=\"\" width=\"612\" height=\"612\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/928010_1413870428855067_323759239_n.jpg\" data-size=\"640x640\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/928010_1413870428855067_323759239_n-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"640\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/891239_438639532933286_1778177128_n.jpg\" data-size=\"640x640\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/891239_438639532933286_1778177128_n-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"640\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/928226_255656434621278_1011189140_n.jpg\" data-size=\"640x640\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/928226_255656434621278_1011189140_n-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"640\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/891318_276104729229954_945555902_n.jpg\" data-size=\"640x640\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/891318_276104729229954_945555902_n-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"640\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/891352_635771936503031_817170295_n.jpg\" data-size=\"640x640\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/891352_635771936503031_817170295_n-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"640\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/928271_540389616072225_1567263234_n.jpg\" data-size=\"640x640\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/928271_540389616072225_1567263234_n-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"640\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/891394_601065739998532_279456224_n.jpg\" data-size=\"640x640\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/891394_601065739998532_279456224_n-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"640\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/928405_172639842932921_890592051_n.jpg\" data-size=\"612x612\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/928405_172639842932921_890592051_n-thumbnail.jpg\" alt=\"\" width=\"612\" height=\"612\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/928439_773436636019693_1007020493_n.jpg\" data-size=\"640x640\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/928439_773436636019693_1007020493_n-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"640\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/914311_686379128080787_1475303173_n.jpg\" data-size=\"640x640\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/914311_686379128080787_1475303173_n-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"640\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/928479_626072337470136_724175467_n.jpg\" data-size=\"640x640\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/928479_626072337470136_724175467_n-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"640\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/891403_315344378629213_533015501_n.jpg\" data-size=\"640x640\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/891403_315344378629213_533015501_n-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"640\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/928526_495200060626083_1396174384_n.jpg\" data-size=\"640x640\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/928526_495200060626083_1396174384_n-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"640\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/8/gallery/928559_297102680414283_1261233676_n.jpg\" data-size=\"640x640\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/8/gallery/928559_297102680414283_1261233676_n-thumbnail.jpg\" alt=\"\" width=\"640\" height=\"640\"></a></figure>\n</div></div>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/goa9iyMWJkI\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
             "author": {
@@ -63,8 +63,8 @@
             "date_modified": "2021-01-01T19:00:30+13:00"
         },
         {
-            "id": "https://whitecomputing.com/contact.html",
-            "url": "https://whitecomputing.com/contact.html",
+            "id": "https://whitecomputing.com/contact/",
+            "url": "https://whitecomputing.com/contact/",
             "title": "Contact",
             "summary": " Name Email Message ",
             "content_html": "<form action=\"https://getsimpleform.com/messages?form_api_token=7eb13a05bc4d648243bf058b460d2abf\" method=\"post\"><!-- the redirect_to is optional, the form will redirect to the referrer on submission --> <input name=\"redirect_to\" type=\"hidden\" value=\"https://whitecomputing.com/thanks.html\"> <!-- all your input fields here.... --> <label for=\"email\">Name</label> <br><input name=\"Name\" required=\"\" type=\"text\"> <br><br><label for=\"email\">Email</label> <br><input name=\"Email\" required=\"\" type=\"text\"> <br><br><label for=\"email\">Message</label> <br><textarea id=\"Message\" name=\"Message\" required=\"\" rows=\"5\"></textarea> <br><br><input type=\"submit\" value=\"Send\"></form>",
@@ -77,8 +77,8 @@
             "date_modified": "2021-01-01T21:22:59+13:00"
         },
         {
-            "id": "https://whitecomputing.com/privacy.html",
-            "url": "https://whitecomputing.com/privacy.html",
+            "id": "https://whitecomputing.com/privacy/",
+            "url": "https://whitecomputing.com/privacy/",
             "title": "Privacy",
             "summary": "This is the privacy page",
             "content_html": "<p>This is the privacy page</p>",
@@ -91,8 +91,8 @@
             "date_modified": "2021-01-01T18:34:34+13:00"
         },
         {
-            "id": "https://whitecomputing.com/blog.html",
-            "url": "https://whitecomputing.com/blog.html",
+            "id": "https://whitecomputing.com/blog/",
+            "url": "https://whitecomputing.com/blog/",
             "title": "Blog",
             "summary": "This is a blog ",
             "content_html": "<p>This is a blog</p>\n<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/4/gallery/cover.png\" data-size=\"2560x1440\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/4/gallery/cover-thumbnail.png\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/4/gallery/atom_background.png\" data-size=\"5180x2880\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/4/gallery/atom_background-thumbnail.png\" alt=\"\" width=\"720\" height=\"400\"></a></figure>\n</div></div>",
@@ -105,8 +105,8 @@
             "date_modified": "2021-01-01T17:55:55+13:00"
         },
         {
-            "id": "https://whitecomputing.com/home.html",
-            "url": "https://whitecomputing.com/home.html",
+            "id": "https://whitecomputing.com/home/",
+            "url": "https://whitecomputing.com/home/",
             "title": "Home",
             "summary": "This is the home page",
             "content_html": "<p>This is the home page</p>\n",
@@ -119,8 +119,8 @@
             "date_modified": "2021-01-01T17:40:46+13:00"
         },
         {
-            "id": "https://whitecomputing.com/services.html",
-            "url": "https://whitecomputing.com/services.html",
+            "id": "https://whitecomputing.com/services/",
+            "url": "https://whitecomputing.com/services/",
             "title": "Services",
             "summary": "HelloHow are you Italic",
             "content_html": "<h1 id=\"hello\">Hello</h1>\n<h3 id=\"how-are-you\">How are you</h3>\n<p> <em>Italic</em></p>\n",
