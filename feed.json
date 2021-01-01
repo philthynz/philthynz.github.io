@@ -14,14 +14,14 @@
             "url": "https://whitecomputing.com/thanks.html",
             "title": "Thanks",
             "summary": "👍 Great stuff! We'll be in touch soon. ",
-            "content_html": "<p class=\"align-center\">👍 Great stuff! We'll be in touch soon.</p>\n<p> </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"200\" height=\"200\" src=\"https://giphy.com/embed/3ohhwpiTkLCb1zsCTC\" frameborder=\"0\" class=\"giphy-embed\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div>\n<p> </p>",
+            "content_html": "<p class=\"align-center\">👍 Great stuff! We'll be in touch soon.</p>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://whitecomputing.com/media/posts/9/thanks.gif\" alt=\"\" width=\"200\" height=\"200\"></figure>\n<p> </p>",
             "author": {
                 "name": "Phillip White"
             },
             "tags": [
             ],
             "date_published": "2021-01-01T20:05:41+13:00",
-            "date_modified": "2021-01-01T20:05:41+13:00"
+            "date_modified": "2021-01-01T21:27:29+13:00"
         },
         {
             "id": "https://whitecomputing.com/koda-the-spitz.html",
@@ -41,14 +41,14 @@
             "url": "https://whitecomputing.com/contact.html",
             "title": "Contact",
             "summary": " Name Email Message ",
-            "content_html": "<form action=\"https://getsimpleform.com/messages?form_api_token=7eb13a05bc4d648243bf058b460d2abf\" method=\"post\"><!-- the redirect_to is optional, the form will redirect to the referrer on submission --> <input name=\"redirect_to\" type=\"hidden\" value=\"'https://whitecomputing.com/thanks.html\"> <!-- all your input fields here.... --> <label for=\"email\">Name</label> <br><input name=\"Name\" type=\"text\"> <br><br><label for=\"email\">Email</label> <br><input name=\"Email\" type=\"text\"> <br><br><label for=\"email\">Message</label> <br><input style=\"height: 100px; width: 200px;\" name=\"Message\" type=\"text\"> <br><br><input type=\"submit\" value=\"Send\"></form>",
+            "content_html": "<form action=\"https://getsimpleform.com/messages?form_api_token=7eb13a05bc4d648243bf058b460d2abf\" method=\"post\"><!-- the redirect_to is optional, the form will redirect to the referrer on submission --> <input name=\"redirect_to\" type=\"hidden\" value=\"https://whitecomputing.com/thanks.html\"> <!-- all your input fields here.... --> <label for=\"email\">Name</label> <br><input name=\"Name\" required=\"\" type=\"text\"> <br><br><label for=\"email\">Email</label> <br><input name=\"Email\" required=\"\" type=\"text\"> <br><br><label for=\"email\">Message</label> <br><textarea id=\"Message\" name=\"Message\" required=\"\" rows=\"5\"></textarea> <br><br><input type=\"submit\" value=\"Send\"></form>",
             "author": {
                 "name": "Phillip White"
             },
             "tags": [
             ],
             "date_published": "2021-01-01T18:35:33+13:00",
-            "date_modified": "2021-01-01T21:17:01+13:00"
+            "date_modified": "2021-01-01T21:22:59+13:00"
         },
         {
             "id": "https://whitecomputing.com/privacy.html",

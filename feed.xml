@@ -3,7 +3,7 @@
     <title>White Computing</title>
     <link href="https://whitecomputing.com/feed.xml" rel="self" />
     <link href="https://whitecomputing.com" />
-    <updated>2021-01-01T21:17:01+13:00</updated>
+    <updated>2021-01-01T21:27:29+13:00</updated>
     <author>
         <name>Phillip White</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://whitecomputing.com/thanks.html"/>
         <id>https://whitecomputing.com/thanks.html</id>
 
-        <updated>2021-01-01T20:05:41+13:00</updated>
+        <updated>2021-01-01T21:27:29+13:00</updated>
             <summary>
                 <![CDATA[
                     👍 Great stuff! We'll be in touch soon. 
@@ -27,7 +27,7 @@
             <![CDATA[
                 <p class="align-center">👍 Great stuff! We'll be in touch soon.</p>
 <p> </p>
-<div class="post__iframe"><iframe loading="lazy" width="200" height="200" src="https://giphy.com/embed/3ohhwpiTkLCb1zsCTC" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://whitecomputing.com/media/posts/9/thanks.gif" alt="" width="200" height="200"></figure>
 <p> </p>
             ]]>
         </content>
@@ -74,7 +74,7 @@
         <link href="https://whitecomputing.com/contact.html"/>
         <id>https://whitecomputing.com/contact.html</id>
 
-        <updated>2021-01-01T21:17:01+13:00</updated>
+        <updated>2021-01-01T21:22:59+13:00</updated>
             <summary>
                 <![CDATA[
                      Name Email Message 
@@ -82,7 +82,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <form action="https://getsimpleform.com/messages?form_api_token=7eb13a05bc4d648243bf058b460d2abf" method="post"><!-- the redirect_to is optional, the form will redirect to the referrer on submission --> <input name="redirect_to" type="hidden" value="'https://whitecomputing.com/thanks.html"> <!-- all your input fields here.... --> <label for="email">Name</label> <br><input name="Name" type="text"> <br><br><label for="email">Email</label> <br><input name="Email" type="text"> <br><br><label for="email">Message</label> <br><input style="height: 100px; width: 200px;" name="Message" type="text"> <br><br><input type="submit" value="Send"></form>
+                <form action="https://getsimpleform.com/messages?form_api_token=7eb13a05bc4d648243bf058b460d2abf" method="post"><!-- the redirect_to is optional, the form will redirect to the referrer on submission --> <input name="redirect_to" type="hidden" value="https://whitecomputing.com/thanks.html"> <!-- all your input fields here.... --> <label for="email">Name</label> <br><input name="Name" required="" type="text"> <br><br><label for="email">Email</label> <br><input name="Email" required="" type="text"> <br><br><label for="email">Message</label> <br><textarea id="Message" name="Message" required="" rows="5"></textarea> <br><br><input type="submit" value="Send"></form>
             ]]>
         </content>
     </entry>
