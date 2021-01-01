@@ -1,0 +1,96 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "White Computing",
+    "description": "",
+    "home_page_url": "https://whitecomputing.com",
+    "feed_url": "https://whitecomputing.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Phillip White"
+    },
+    "items": [
+        {
+            "id": "https://whitecomputing.com/contact.html",
+            "url": "https://whitecomputing.com/contact.html",
+            "title": "Contact",
+            "summary": "Contact Page",
+            "content_html": "<p>Contact Page</p>",
+            "author": {
+                "name": "Phillip White"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-01T18:35:33+13:00",
+            "date_modified": "2021-01-01T18:35:33+13:00"
+        },
+        {
+            "id": "https://whitecomputing.com/privacy.html",
+            "url": "https://whitecomputing.com/privacy.html",
+            "title": "Privacy",
+            "summary": "This is the privacy page",
+            "content_html": "<p>This is the privacy page</p>",
+            "author": {
+                "name": "Phillip White"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-01T18:34:34+13:00",
+            "date_modified": "2021-01-01T18:34:34+13:00"
+        },
+        {
+            "id": "https://whitecomputing.com/about-2.html",
+            "url": "https://whitecomputing.com/about-2.html",
+            "title": "About",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://whitecomputing.com/media/posts/5/404.gif\" alt=\"\" width=\"700\" height=\"525\"></figure>",
+            "author": {
+                "name": "Phillip White"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-01T17:57:59+13:00",
+            "date_modified": "2021-01-01T17:57:59+13:00"
+        },
+        {
+            "id": "https://whitecomputing.com/blog.html",
+            "url": "https://whitecomputing.com/blog.html",
+            "title": "Blog",
+            "summary": "This is a blog ",
+            "content_html": "<p>This is a blog</p>\n<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/4/gallery/cover.png\" data-size=\"2560x1440\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/4/gallery/cover-thumbnail.png\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://whitecomputing.com/media/posts/4/gallery/atom_background.png\" data-size=\"5180x2880\"><img loading=\"lazy\" src=\"https://whitecomputing.com/media/posts/4/gallery/atom_background-thumbnail.png\" alt=\"\" width=\"720\" height=\"400\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Phillip White"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-01T17:53:35+13:00",
+            "date_modified": "2021-01-01T17:55:55+13:00"
+        },
+        {
+            "id": "https://whitecomputing.com/home.html",
+            "url": "https://whitecomputing.com/home.html",
+            "title": "Home",
+            "summary": "This is the home page",
+            "content_html": "<p>This is the home page</p>\n",
+            "author": {
+                "name": "Phillip White"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-01T17:38:52+13:00",
+            "date_modified": "2021-01-01T17:40:46+13:00"
+        },
+        {
+            "id": "https://whitecomputing.com/services.html",
+            "url": "https://whitecomputing.com/services.html",
+            "title": "Services",
+            "summary": "HelloHow are you Italic",
+            "content_html": "<h1 id=\"hello\">Hello</h1>\n<h3 id=\"how-are-you\">How are you</h3>\n<p> <em>Italic</em></p>\n",
+            "author": {
+                "name": "Phillip White"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-01T17:27:47+13:00",
+            "date_modified": "2021-01-01T18:32:07+13:00"
+        }
+    ]
+}

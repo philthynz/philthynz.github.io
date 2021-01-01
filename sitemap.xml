@@ -1,41 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://whitecomputing.com/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://whitecomputing.com/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://whitecomputing.com/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://whitecomputing.com/services/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://whitecomputing.com/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://whitecomputing.com/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://whitecomputing.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://whitecomputing.com/</loc>
+</url>
+<url>
+<loc>https://whitecomputing.com/about-2.html</loc>
+<lastmod>2021-01-01T17:57:59+13:00</lastmod>
+<image:image>
+<image:loc>https://whitecomputing.com/media\posts\5/404.gif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://whitecomputing.com/blog.html</loc>
+<lastmod>2021-01-01T17:55:55+13:00</lastmod>
+<image:image>
+<image:loc>https://whitecomputing.com/media\posts\4/gallery/cover-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://whitecomputing.com/media\posts\4/gallery/atom_background-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://whitecomputing.com/contact.html</loc>
+<lastmod>2021-01-01T18:35:33+13:00</lastmod>
+</url>
+<url>
+<loc>https://whitecomputing.com/home.html</loc>
+<lastmod>2021-01-01T17:40:46+13:00</lastmod>
+</url>
+<url>
+<loc>https://whitecomputing.com/page/2/</loc>
+</url>
+<url>
+<loc>https://whitecomputing.com/privacy.html</loc>
+<lastmod>2021-01-01T18:34:34+13:00</lastmod>
+</url>
+<url>
+<loc>https://whitecomputing.com/services.html</loc>
+<lastmod>2021-01-01T18:32:07+13:00</lastmod>
+</url>
 </urlset>
