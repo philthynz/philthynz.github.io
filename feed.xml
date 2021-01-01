@@ -3,12 +3,45 @@
     <title>White Computing</title>
     <link href="https://whitecomputing.com/feed.xml" rel="self" />
     <link href="https://whitecomputing.com" />
-    <updated>2021-01-01T18:35:33+13:00</updated>
+    <updated>2021-01-01T18:50:00+13:00</updated>
     <author>
         <name>Phillip White</name>
     </author>
     <id>https://whitecomputing.com</id>
 
+    <entry>
+        <title>Koda The Spitz</title>
+        <author>
+            <name>Phillip White</name>
+        </author>
+        <link href="https://whitecomputing.com/koda-the-spitz.html"/>
+        <id>https://whitecomputing.com/koda-the-spitz.html</id>
+
+        <updated>2021-01-01T18:50:00+13:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/927961_630502683707067_1915127521_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/927961_630502683707067_1915127521_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/915633_575041829217150_460205767_n.jpg" data-size="612x612"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/915633_575041829217150_460205767_n-thumbnail.jpg" alt="" width="612" height="612"></a></figure>
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/928010_1413870428855067_323759239_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/928010_1413870428855067_323759239_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/891239_438639532933286_1778177128_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/891239_438639532933286_1778177128_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/928226_255656434621278_1011189140_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/928226_255656434621278_1011189140_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/891318_276104729229954_945555902_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/891318_276104729229954_945555902_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/891352_635771936503031_817170295_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/891352_635771936503031_817170295_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/928271_540389616072225_1567263234_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/928271_540389616072225_1567263234_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/891394_601065739998532_279456224_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/891394_601065739998532_279456224_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/928405_172639842932921_890592051_n.jpg" data-size="612x612"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/928405_172639842932921_890592051_n-thumbnail.jpg" alt="" width="612" height="612"></a></figure>
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/928439_773436636019693_1007020493_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/928439_773436636019693_1007020493_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/914311_686379128080787_1475303173_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/914311_686379128080787_1475303173_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/928479_626072337470136_724175467_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/928479_626072337470136_724175467_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/891403_315344378629213_533015501_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/891403_315344378629213_533015501_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/928526_495200060626083_1396174384_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/928526_495200060626083_1396174384_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
+<figure class="gallery__item"><a href="https://whitecomputing.com/media/posts/8/gallery/928559_297102680414283_1261233676_n.jpg" data-size="640x640"><img loading="lazy" src="https://whitecomputing.com/media/posts/8/gallery/928559_297102680414283_1261233676_n-thumbnail.jpg" alt="" width="640" height="640"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Contact</title>
         <author>
